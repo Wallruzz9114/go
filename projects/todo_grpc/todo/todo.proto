@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+package todo_grpc.todo;
+
+option go_package = "todopb"
+

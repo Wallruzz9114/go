@@ -1,0 +1,1 @@
+protoc -I simple/ --go_out=simple/ simple/simple.proto
